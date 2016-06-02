@@ -1,6 +1,5 @@
 php==1.1.7
 python
 BeautifulSoup==3.2.0
-lamp-server
 apache2
 
