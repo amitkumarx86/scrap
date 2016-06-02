@@ -3,5 +3,4 @@ python
 BeautifulSoup==3.2.0
 lamp-server
 apache2
-php5 libapache2-mod-php5
 
